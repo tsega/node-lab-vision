@@ -1,0 +1,8 @@
+# npm modules folder
+node_modules/
+
+# Webstorm IDE folder
+.idea/
+
+# macOS hidden files
+.DS_Store
